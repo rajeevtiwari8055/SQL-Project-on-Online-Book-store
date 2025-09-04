@@ -1,9 +1,27 @@
 # 📘 My First SQL Project: Online Bookstore Data Analysis
+
 A complete SQL-based data analysis project on a fictional online bookstore using PostgreSQL. This project demonstrates how to clean, query, and analyze real-world datasets to extract business insights such as sales trends, revenue, inventory, and customer behavior using 20+ well-structured SQL queries.
 
 ---
 
-## 📌 Project Overview
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#dataset-used">📂 Dataset Used</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#business-problems">⭕ Business Problems Addressed</a>  
+- <a href="#methodology">🛠️ Methodology</a>  
+- <a href="#insights">🔍 Key Insights & Solutions</a>  
+- <a href="#queries">📈 Sample SQL Queries Used</a>  
+- <a href="#skills">🧠 Skills Gained</a>  
+- <a href="#importance">🔑 Why This Project Matters</a>  
+- <a href="#conclusion">✅ Conclusion</a>  
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-visual">📸 Project Snapshot</a>  
+
+---
+
+## <span id="project-overview">📌 Project Overview</span>
 
 This project centers around a fictional **Online Bookstore**, where I analyzed transactional and inventory data using **PostgreSQL**.  
 By performing SQL operations on this dataset, I uncovered actionable business insights that simulate real decision-making processes in **e-commerce or retail environments**.
@@ -12,7 +30,7 @@ The goal was not only to query data but also to answer business questions, under
 
 ---
 
-## 📂 Datasets Used
+## <span id="dataset-used">📂 Dataset Used</span> 
 
 The analysis was based on three CSV files, imported into PostgreSQL as relational tables:
 
@@ -22,7 +40,7 @@ The analysis was based on three CSV files, imported into PostgreSQL as relationa
 
 ---
 
-## 🎯 Project Objectives
+## <span id="project-objectives">🎯 Project Objectives</span> 
 
 The primary goals of this project were to:
 
@@ -34,7 +52,7 @@ The primary goals of this project were to:
 
 ---
 
-## ⭕ Business Problems Addressed
+## <span id="business-problems">⭕ Business Problems Addressed</span>
 
 The bookstore aimed to answer the following real-world business questions:
 
@@ -46,7 +64,7 @@ The bookstore aimed to answer the following real-world business questions:
 
 ---
 
-## 🛠️ Methodology
+## <span id="methodology">🛠️ Methodology</span> 
 
 I approached this project in a structured, multi-step manner:
 
@@ -73,7 +91,7 @@ Designed queries to track key metrics like:
 
 ---
 
-## 🔍 Key Insights & Solutions
+## <span id="insights">🔍 Key Insights & Solutions</span> 
 
 Here are some actionable insights derived from the SQL analysis:
 
@@ -85,7 +103,7 @@ Here are some actionable insights derived from the SQL analysis:
 
 ---
 
-## 📈 Sample SQL Queries Used
+## <span id="queries">📈 Sample SQL Queries Used</span>
 
 ### 🟢 Basic Queries:
 
@@ -107,7 +125,7 @@ Here are some actionable insights derived from the SQL analysis:
 
 ---
 
-## 🧠 Skills Gained
+## <span id="skills">🧠 Skills Gained</span>
 
 Through this project, I gained hands-on experience in:
 
@@ -118,7 +136,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🔑 Why This Project Matters
+## <span id="importance">🔑 Why This Project Matters</span> 
 
 📌 My first complete SQL project  
 📁 A strong portfolio project for GitHub and LinkedIn  
@@ -128,7 +146,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## ✅ Conclusion
+## <span id="conclusion">✅ Conclusion</span> 
 
 This project transformed me from a SQL learner into someone capable of solving real-world business challenges using data.  
 By analyzing structured datasets with PostgreSQL and writing over 20 queries, I not only improved my SQL proficiency but also developed the mindset of a business-oriented data analyst.
@@ -136,5 +154,21 @@ By analyzing structured datasets with PostgreSQL and writing over 20 queries, I 
 From CSV files to insights, from raw data to real KPIs — this project represents a **key milestone** in my data analytics journey.
 
 ---
+
+## <span id="contact">📬 Connect with Me</span> 
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-visual">📸 Project Snapshot</span>
+
+
+📘 **Online Bookstore Data Analysis** 
 
 ![Bookstore](Bookstore.png)
